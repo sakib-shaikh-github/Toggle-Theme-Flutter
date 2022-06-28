@@ -9,3 +9,4 @@ This package simply uses [setState()] instead of [ChangeNotifier] or any state m
 ## On GitHub
 
 This repo will only contain one branch for simplicity.
+Please see [toggleVideo.webm] for sample video demonstration.
